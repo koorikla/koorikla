@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋
+
+[![Kubestronaut](https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)
+[![CGOA](https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)
+[![CNPA](https://images.credly.com/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob)
+[![CAPA](https://images.credly.com/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png)
+[![GCP](https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)
+[![AWS](https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)
 
 <!--
 **koorikla/koorikla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
